@@ -9,7 +9,7 @@ Este es el colorscheme que uso y para tenerlo en cualquier lado lo hice un plugi
 ```
 return
 {
-    "Tx0mas/ty-high-contrast",
+    "tyingz/ty-high-contrast",
     lazy = false, 
     priority = 1000, 
     config = function()
